@@ -42,6 +42,7 @@ b=Mango()
 for i in (a,b):
     i.info()
 ```
+
 ## Output
 <img width="307" height="182" alt="image" src="https://github.com/user-attachments/assets/c72ee97b-1543-4e1b-b1f1-8ca82d609974" />
 
